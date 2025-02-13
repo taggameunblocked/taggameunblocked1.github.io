@@ -156,4 +156,4 @@ rubiconproject.com, 17608, RESELLER, 0bfd66d529a55807
 lijit.com,465542,RESELLER,fafdf38b16bf6b2b
 
 
-wgplayer.com, WGA5631618432, DIRECT
+wgplayer.com, WGA5635789102, DIRECT
